@@ -4,13 +4,17 @@ h1 {
     text-align: center
 }
 
-button {
-    background-color: #EBF0F5;
+h2 {
     color: #272a2d;
     font-family: 'Amatic SC', cursive;
     font-size: auto;
+    text-align: left;
+}
+
+button {
+    background-color: #EBF0F5;
+    color: #272a2d;
     height: auto;
-    text-align: center;
     width: 10%
 }
 
